@@ -1,0 +1,24 @@
+#hero{
+    width:1200px;
+    margin: 0 auto;
+    background-image: url('../img/hero.jpg');
+        background-size: cover;
+        background-position: center;
+        height:65vh;
+        border-radius: 25px;
+        margin-top:25px;
+        margin-bottom:25px;
+}
+
+#heroimage{
+    width:1200px;
+    height: inherit;
+}
+
+h1{
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    right:200px;
+    color:#fff;
+}
